@@ -6,7 +6,7 @@ Developer. Learner
 
 ZIn is a full-stack JavaScript developer with 2 years of experience. I am skilled in front-end and back-end technologies and have a passion for building scalable and reliable web applications. I am a proactive learner and always looking to improve my skills and stay up-to-date with the latest developments in the field.
 
-* 🌍  I'm based in Yangon, Myanmar
+* 🌍  I'm based in London, Ontario, Canada
 * 🖥️  See my portfolio at [Zeke](http://zekes.vercel.app/)
 * ✉️  You can contact me at [zetminhtin@gmail.com](mailto:zetminhtin@gmail.com)
 * 🚀  I'm currently working on [Secret Media Storage](http://secret-media-storage-frontend-no95.vercel.app/)
