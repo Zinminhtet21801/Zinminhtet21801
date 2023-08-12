@@ -10,7 +10,7 @@ ZIn is a full-stack JavaScript developer with 2 years of experience. I am skille
 * 🖥️  See my portfolio at [Zeke](http://zekes.vercel.app/)
 * ✉️  You can contact me at [zetminhtin@gmail.com](mailto:zetminhtin@gmail.com)
 * 🚀  I'm currently working on [DonateGifts](https://donate-gifts.com/)
-* 🧠  I'm learning Docker and Golang
+* 🧠  I'm learning Kubernetes and Golang
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly a nerd 🤓.
 
