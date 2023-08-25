@@ -13,6 +13,7 @@ ZIn is a full-stack JavaScript developer with 2 years of experience. I am skille
 * 🧠  I'm learning Kubernetes and Golang
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly a nerd 🤓.
+* ❤️‍🔥 Passionate about AI.
 
 <a href="https://www.github.com/Zinminhtet21801" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Zinminhtet21801?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ZinMinH99293443" target="_blank" rel="noreferrer"><img
